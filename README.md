@@ -6,7 +6,7 @@ A simplified, interactive clone of Google Maps that detects the user’s locatio
 
 ---
 
-## 🎯 Project Purpose
+## Project Purpose
 
 This project demonstrates how to build a custom WebGIS application using modern frontend technologies. It helps users:
 
@@ -16,7 +16,7 @@ This project demonstrates how to build a custom WebGIS application using modern 
 
 ---
 
-## 🛠️ Built With
+## Built With
 
 * **JavaScript**
 * **HTML**
@@ -25,7 +25,7 @@ This project demonstrates how to build a custom WebGIS application using modern 
 
 ---
 
-## 🌟 Key Features
+## Key Features
 
 * 📍 User location detection
 * 🚶‍♀️🚴‍♂️🚗 Multiple transportation options
@@ -34,7 +34,7 @@ This project demonstrates how to build a custom WebGIS application using modern 
 
 ---
 
-## 🧪 Use Cases
+## Use Cases
 
 * Learning WebGIS fundamentals
 * Prototyping custom navigation tools
@@ -42,7 +42,7 @@ This project demonstrates how to build a custom WebGIS application using modern 
 
 ---
 
-## 🔮 What's Next
+## What's Next
 
 * Add live traffic overlay
 * Store and retrieve favorite routes
